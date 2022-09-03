@@ -1,4 +1,4 @@
-# GA-B150M-D3H  技嘉B150M + QTJ2
+# GA-B150M-HD3  技嘉B150M + QTJ2
 
 **OpenCore : 0.7.7**
 
@@ -11,11 +11,11 @@
 | **Component** | **Model**             |
 | ------------- | --------------------- |
 | CPU           | Intel QTJ2            |
-| Motherboard   | Gigabyte GA-B150M-D3H |
-| RAM           | Cuso 8GB*2 DDR4@2400  |
-| Audio Chipset | ALC892                |
+| Motherboard   | Gigabyte GA-B150M-HD3 |
+| RAM           | G.SKILL 8GB*2 DDR3@1333  |
+| Audio Chipset | Realtek ALC887               |
 | GPU           | UHD630                |
-| Ethernet      | Intel I219-V          |
+| Ethernet      | Realtek RTL8111        |
 | OS Disk(NVME) | Micron 2200           |
 
 ### What works
