@@ -2,7 +2,7 @@
 
 **OpenCore : 0.7.7**
 
-**macOS ：12.2**
+**macOS ：12.5**
 
 **SMBIOS : iMac20,1**
 
